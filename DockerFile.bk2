@@ -1,0 +1,7 @@
+FROM kivy/buildozer
+
+COPY KivyApp KivyApp
+
+ENTRYPOINT ["tail"]
+
+CMD ["-f","/dev/null"]
