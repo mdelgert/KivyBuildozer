@@ -10,3 +10,5 @@ docker run --volume "$(pwd)":/home/mdelgert/source/KivyBuildozer/test_app docker
 # `android.arch` will be removed and ignored in future.
 # If you're seeing this error, please migrate to `android.archs`.
 # Ensure build layout
+
+https://buildozer.readthedocs.io/en/latest/quickstart.html
